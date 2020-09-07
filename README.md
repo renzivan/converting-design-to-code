@@ -1,7 +1,7 @@
 # SETUP
 
 ```
-$ git clone https://github.com/renzivan/html-addinpay.git
+$ git clone https://github.com/renzivan/psd-to-html-addinpay.git
 ```
 
 ```
